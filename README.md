@@ -64,6 +64,17 @@ print "Please turn to page {0}".format(page_number)
 list(range(10)
 #>>>  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
+
+### Lists
+```
+['red', 'blue', 'green', 2]
+```
+
+### Dictionaries
+```
+{ key : value }
+```
+
 ## Variables
 * assigning  
 ```python  
